@@ -1,9 +1,9 @@
-# LLM 基准测试研究
+# LLM - MLLM 基准测试调研汇总
 
 <div align="center">
   
 ![语言模型](https://img.shields.io/badge/LLM-Research-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green)
+![多模态](https://img.shields.io/badge/MLLM-Research-green)
 ![许可证](https://img.shields.io/badge/License-MIT-yellow)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=Markdown&logoColor=ffffff)
 
